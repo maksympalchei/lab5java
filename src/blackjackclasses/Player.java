@@ -16,6 +16,8 @@ public class Player {
      * @param deck
      * @return true or false
      */
+    //
+    //
     public Boolean getCard(Deck deck)
     {
         Card card = deck.DealCard();
