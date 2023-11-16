@@ -11,6 +11,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
+ * Main class that contains the concept of the Blackjack.
  *
  * @author korjk
  */
