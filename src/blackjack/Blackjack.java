@@ -4,14 +4,11 @@
  */
 package blackjack;
 
-import blackjackclasses.Card;
 import blackjackclasses.Dealer;
 import blackjackclasses.Deck;
 import blackjackclasses.Player;
 import java.util.Random;
 import java.util.Scanner;
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  *
